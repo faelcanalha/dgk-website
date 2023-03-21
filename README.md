@@ -2,6 +2,6 @@
 # DGK Static Website
 
 
-<a href="https://justmefael.github.io/dgk-webiste/" target="_blank">Demo</a>
+<a href="https://justmefael.github.io/dgk-website/" target="_blank">Demo</a>
 
 
