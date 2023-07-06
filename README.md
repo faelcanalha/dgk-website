@@ -2,6 +2,6 @@
 # DGK
 
 
-<a href="https://vieiirazip.github.io/dgk-website/" target="_blank">View Page</a>
+<a href="https://faelcanalha.github.io/dgk-website/" target="_blank">View Page</a>
 
 
